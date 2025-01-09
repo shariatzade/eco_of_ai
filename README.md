@@ -1,3 +1,5 @@
+![map](https://raw.githubusercontent.com/shariatzade/eco_of_ai/main/release/eco_of_ai-v0.3.png)
+
 # Ecosystem Map of Iran's AI (eco_of_ai)
 The project aims to create a comprehensive Ecosystem Map of Iran's AI landscape, detailing the various stakeholders, technologies, and innovations driving the development of artificial intelligence in the country. This repository will serve as a valuable resource for researchers, policymakers, and industry professionals interested in understanding and engaging with Iran's burgeoning AI ecosystem. 
 
